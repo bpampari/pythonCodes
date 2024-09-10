@@ -1,3 +1,6 @@
+# This Python code is designed to read data from two CSV files, compare the values in them based on a common key (the first column), 
+# and then replace the rows in the second file with corresponding values from the first file if the keys match. 
+# The output is written to a new CSV file.
 import csv
 
 # Function to read afile and convert its content into a dictionary
